@@ -1,5 +1,5 @@
 # Progressive Enhancement Presentation
-A short introduction to progressive enhancement in web applications available for download as a [PowerPoint presentation](todo) with slide notes.
+A short introduction to progressive enhancement in web applications available for download as a [PowerPoint presentation](https://github.com/01binary/progressive-enhancement-presentation/blob/master/Progressive%20Enhancement.pptx?raw=true) with slide notes.
 
 ## `“User can always fulfill their reason for visiting the site”`
 
